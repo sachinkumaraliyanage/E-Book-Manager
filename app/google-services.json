@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244387017856",
+    "project_id": "e-library-manager",
+    "storage_bucket": "e-library-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244387017856:android:e572df1c4e8c14c8dfa265",
+        "android_client_info": {
+          "package_name": "com.mad.e_librarymanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244387017856-bv899hjqmr1cjd6rihcl4eh40kgv80t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2zP7q_dSJj8rX2YdDyf-aITzMn1GOMdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244387017856-bv899hjqmr1cjd6rihcl4eh40kgv80t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

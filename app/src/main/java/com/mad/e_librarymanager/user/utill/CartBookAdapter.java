@@ -66,7 +66,7 @@ public class CartBookAdapter extends RecyclerView.Adapter<Book_ViewHolder>{
                             user_main.showData();
                         }
                         else if (which == 1){
-                            BookCountPiker newFragment = new BookCountPiker(bookList.get(position).getTitle(),0);
+                            BookCountPiker newFragment = new BookCountPiker(bookList.get(position).getTitle(),Cart.cartList.get(position).getCount());
                             newFragment.setValueChangeListener(user_main);
                             newFragment.show(user_main.getSupportFragmentManager(), "time picker");
                         }
